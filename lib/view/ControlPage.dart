@@ -87,7 +87,7 @@ class _ControlPageState extends State<ControlPage> {
             child: ListView(
               padding: EdgeInsets.all(8),
               children: <Widget>[
-                ListTile(title: Text("Modify PWD"), leading: Icon(Icons.lock),onTap: (){},),
+                // ListTile(title: Text("Modify PWD"), leading: Icon(Icons.lock),onTap: (){},),
               ],
             ),
           )
